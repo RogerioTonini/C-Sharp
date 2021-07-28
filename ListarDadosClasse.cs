@@ -1,5 +1,5 @@
 /* ---------------------------------------------------------------------------------------
-* Aplicação.: ListarDadosDeUmMetodo
+* Aplicação.: ListarDadosDeUmaClasse
 * Objetivo..: Listar o conteúdo de uma Classe
 * ----------------------------------------------------------------------------------------
 * Origem material: Microsoft Docs
