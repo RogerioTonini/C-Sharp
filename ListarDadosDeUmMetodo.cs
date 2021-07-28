@@ -1,6 +1,6 @@
 /* ---------------------------------------------------------------------------------------
 * Aplicação.: ListarDadosDeUmMetodo
-* Objetivo..: Listar o conteúdo de um método
+* Objetivo..: Listar o conteúdo de uma Classe
 * ----------------------------------------------------------------------------------------
 * Origem material: Microsoft Docs
 * https://docs.microsoft.com/pt-br/dotnet/api/system.collections.generic.list-1?view=net-5.0
